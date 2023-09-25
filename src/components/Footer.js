@@ -15,16 +15,16 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Yash Gupta</h3>
+          <h3>Designed and Developed by Bharat Singh Rawat</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} YG</h3>
+          <h3>Copyright © {year} BSR</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/yash2k1"
+                href="https://github.com/itsBharat004"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -34,7 +34,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsdKNbcJgpcqkXnBjlgNkrZxfzcGdRlgSTsQxgXMkzRqtLxHvrdjdjcpQKtTPhkmPgXGgFRl"
+                href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvmXxpTNBcGXhsmbnflRPBGSqkXRGgvNTKStSQBmBNsfbBrGXKZFGzTzXcFFvNQcfTvwjV"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -44,7 +44,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/yash-gupta-83ab7318b/"
+                href="https://www.linkedin.com/in/bharat-singh-rawat/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -54,7 +54,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/yashgarg2k1/"
+                href="https://www.instagram.com/just_got_caught_/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"

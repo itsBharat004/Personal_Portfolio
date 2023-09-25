@@ -8,10 +8,10 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Yash Gupta </span>
+            Hi Everyone, I am <span className="purple">Bharat Singh Rawat </span>
             from <span className="purple">Delhi, India.</span>
-            <br /> I am a final year student pursuing an B-Tech
-            in Information Technology from GGSIPU, Delhi.
+            <br /> I am a final year student pursuing an B.Tech
+            in Computer Science from GGSIPU, Delhi.
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
@@ -20,17 +20,17 @@ function AboutCard() {
               <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Reading Tech Blogs
+              <ImPointRight /> Reading philosophical books
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Watching informational podcasts
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Consistancy does not give you success, but consistancy plus improving the success rate of your daily routine does  "{" "}
+            "Consistancy does not give you success, it is the improvement of success rate in your consistent daily routine which does magic"{" "}
           </p>
-          <footer className="blockquote-footer">yash</footer>
+          <footer className="blockquote-footer">Bharat</footer>
         </blockquote>
       </Card.Body>
     </Card>

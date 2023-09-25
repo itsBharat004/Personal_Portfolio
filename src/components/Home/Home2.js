@@ -61,7 +61,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/yash2k1"
+                  href="https://github.com/itsBharat004"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -71,7 +71,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsdKNbcJgpcqkXnBjlgNkrZxfzcGdRlgSTsQxgXMkzRqtLxHvrdjdjcpQKtTPhkmPgXGgFRl"
+                  href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvmXxpTNBcGXhsmbnflRPBGSqkXRGgvNTKStSQBmBNsfbBrGXKZFGzTzXcFFvNQcfTvwjV"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -81,7 +81,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/yash-gupta-83ab7318b/"
+                  href="https://www.linkedin.com/in/bharat-singh-rawat/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -91,7 +91,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/yashgarg2k1/"
+                  href="https://www.instagram.com/just_got_caught_/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
