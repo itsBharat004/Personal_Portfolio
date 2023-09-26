@@ -28,7 +28,8 @@ function Projects() {
               isBlog={false}
               title="siren news"
               description="I developed a high-performing website using React, Express, and Node JS. The website features advanced techniques such as Context API, Memo, and HOCs, which optimize data utilization and result in a better user experience. Additionally, I implemented login and signup features using bcrypt for password hashing and JWT token."
-              ghLink="https://github.com/itsBharat004/Blog_Client"
+              // ghLink="https://github.com/itsBharat004/Blog_Client"
+              ghLink="#"
               demoLink="https://bharat-blog.netlify.app/"
             />
           </Col>
@@ -43,7 +44,8 @@ function Projects() {
               Includes functionalities like getting mail from clients/users for the service requests.
               Worked in a team of college tech group and learned about engaging with team members in a project
               "
-              ghLink="https://github.com/itsBharat004/Event_Buzz"
+              // ghLink="https://github.com/itsBharat004/Event_Buzz"
+              ghLink="#"
               demoLink="https://musical-travesseiro-fae6ee.netlify.app/"
             />
           </Col>
