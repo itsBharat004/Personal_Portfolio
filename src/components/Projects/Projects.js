@@ -28,8 +28,8 @@ function Projects() {
               isBlog={false}
               title="siren news"
               description="I developed a high-performing website using React, Express, and Node JS. The website features advanced techniques such as Context API, Memo, and HOCs, which optimize data utilization and result in a better user experience. Additionally, I implemented login and signup features using bcrypt for password hashing and JWT token."
-              ghLink="https://github.com/yash2k1/newsWebsite.git"
-              demoLink="https://yash-siren-news.netlify.app/"
+              ghLink="https://github.com/itsBharat004/Blog_Client"
+              demoLink="https://bharat-blog.netlify.app/"
             />
           </Col>
           {/* EventBuzz */}
@@ -43,7 +43,7 @@ function Projects() {
               Includes functionalities like getting mail from clients/users for the service requests.
               Worked in a team of college tech group and learned about engaging with team members in a project
               "
-              ghLink="https://github.com/yash2k1/event_buzz.git"
+              ghLink="https://github.com/itsBharat004/Event_Buzz"
               demoLink="https://musical-travesseiro-fae6ee.netlify.app/"
             />
           </Col>
@@ -54,9 +54,9 @@ function Projects() {
               isBlog={false}
               title="Redpositive"
               description="Developed a responsive Redpositive clone using React JS. It comes
-              with features such as receiving emails"
-              ghLink="https://github.com/yash2k1/redpositive.git"
-              demoLink="https://yash-redpositive-clone.netlify.app/"              
+              with features such as receiving emails. Solved the major issue, that is the responsiveness of their website and did it with clean code"
+              ghLink="https://github.com/itsBharat004/Red_Positive"
+              demoLink="https://red-positive.netlify.app/"              
             />
           </Col>
 
@@ -67,7 +67,7 @@ function Projects() {
               isBlog={false}
               title="resume-builder"
               description="Resume Builder project will help to build your resume by auto-generating it on your own with the skill set input and information about the user. It also helps working professionals with the same using ReactJS and NodeJS frameworks."
-              ghLink="https://github.com/yash2k1/resume-builder.git"
+              ghLink="https://github.com/itsBharat004/Resume_Builder"
             />
           </Col>
           {/* To Do */}
@@ -77,8 +77,8 @@ function Projects() {
               isBlog={false}
               title="To-Do list"
               description="To establish a routine, I built a vanilla JS todo website that involved DOM manipulation and helped me understand JavaScript."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://yash2k1.github.io/Todo-App-JS/"
+              ghLink="https://github.com/itsBharat004/JS_Todo_App"
+              demoLink="https://itsbharat004.github.io/JS_Todo_App/"
             />
           </Col>
 {/* Reminder-Clock-App */}
@@ -88,8 +88,8 @@ function Projects() {
               isBlog={false}
               title="Reminder-Clock-App"
               description="While developing this Reminder Clock Project, I got to work on multiple HTML tags, and various CSS properties. Most importantly I got introduced with the functions required for DOM manipulation. Also how to add dynamic HTML using JS and Date function of JS."
-              ghLink="https://github.com/yash2k1/Reminder-Clock-App.git"
-              demoLink="https://yash2k1.github.io/Reminder-Clock-App/"     
+              ghLink="https://github.com/itsBharat004/JS_Reminder_Clock_App"
+              demoLink="https://itsbharat004.github.io/JS_Reminder_Clock_App/"     
               //  <--------Please include a demo link here 
             />
           </Col>
